@@ -19,7 +19,7 @@ Use the template from this repository!
 
 Using the template below
 
-![Template]()
+![Template](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/POE-1.png)
 
 Modify the Date, Title and Body as you consider. 
 *Important!* Check the event's card on *Trello* for pictures at the event and try to include one in the POE!
@@ -32,4 +32,8 @@ Save the document *both* as *Docx* and *PDF*!
 
 Upload both the *Docx* and *PDF* to *Trello* (on the corresponding card) and :white_check_mark: your name on the POE section.
 
-![TickExample]()
+![TickExample](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/POE-2.PNG)
+
+### Step 5: You're done!
+
+Crack a bottle
