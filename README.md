@@ -4,14 +4,12 @@ The meaning of this repo is to set various guidelines for certain Student Partne
 
 ## Guidelines
 
-### POEs
+### [POE](https://github.com/microsoft-dx/msp-fundamentals/blob/master/POE/README.md)
 
-[Proof of Execution Guideline]()
+### [Workshops](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Workshops/README.md)
 
-### Workshops
+### [Microsoft Academy](https://github.com/microsoft-dx/msp-fundamentals/blob/master/MicrosoftAcademy/README.md)
 
-### Microsoft Academy
+### [General Duties](https://github.com/microsoft-dx/msp-fundamentals/blob/master/GeneralDuties/README.md)
 
-### General Duties
-
-### Microsoft Innovation Center Rules
+### [Microsoft Innovation Center](https://github.com/microsoft-dx/msp-fundamentals/blob/master/MIC/README.md)
