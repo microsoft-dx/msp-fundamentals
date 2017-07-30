@@ -11,9 +11,9 @@ Use the template from this repository!
 
 ### Step 1: Modify the name of the file using the following convention: (DATE)(POE)NAME.docx
 
- *DATE: MM.DD.YYYY  (*Attention!* this is the date AT WHICH the event happened, not when you write the POE)
- *POE: just leave it like that
- *NAME: the name of the event
+ * `DATE`: MM.DD.YYYY  (*Attention!* this is the date AT WHICH the event happened, not when you write the POE)
+ * `POE`: just leave it like that
+ * `NAME`: the name of the event
 
 ### Step 2: Start writing!
 
