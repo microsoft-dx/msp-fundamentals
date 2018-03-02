@@ -5,7 +5,7 @@ This is to be viewed as a how-to approach for any new certification template tha
 ## Design a new template
 Unleash your creative self and start by designing, in Photoshop or GIMP, a new template for certifications. We *recommend* taking in consideration the following:
 - clearly display the **student's name**, the **course** and the **issue date**
-- have ([our](https://github.com/microsoft-dx/msp-fundamentals/blob/master/MicrosoftAcademy/Images/mic-logo.png?raw=true)) the Microsoft Innovation Center logo displayed
+- have ([our](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/mic-logo.png?raw=true)) the Microsoft Innovation Center logo displayed
 - display competencies obtained by following the course
 - have it signed by someone important from Microsoft
 - display the instructors name
