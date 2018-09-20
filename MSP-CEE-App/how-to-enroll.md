@@ -12,13 +12,13 @@ For getting access to this app, there are two different ways depending on whethe
 
 1. Go to https://www.microsoft.com/ro-ro/msp/Home/Country
 2. In the up right corner, you have "Connect"
-![Connect](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/how-to-enroll-1.png)
+![Connect](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/how-to-enroll-1.PNG)
 3. Log in using your @studentpartner account
 4. Press Next
-![Next](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/POE-2.png)
+![Next](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/how-to-enroll-2.PNG)
 5. Complete all of the details
 6. Important! If you have already applied to the MSP app using your personal email, put them here with your access code to import all the data. Note sure what the access code is yet, TODO
-![Import](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/how-to-enroll-3.png)
+![Import](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/how-to-enroll-3.PNG)
 7. You can complete all the other details on your profile
 8. You are done! Now you have to wait for an admin to complete your registration.
 
