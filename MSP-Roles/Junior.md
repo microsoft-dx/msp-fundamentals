@@ -24,6 +24,9 @@ Target-wise, a minimum requirement as an _MSP Junior_ is to:
 * Host or Co-Host one workshop per semester in our University
 * Write one or two technical blog posts or record and post one or two technical videos
 * Have strong social media skills or strong social media presence
+* Participate in one hackathon/coding competition (Innovation Labs, Imagine Cup etc.)
+* Participate in Microsoft and Microsoft Student Partner events
+* Be active in our laboratory (TODO: define *active*)
 
 ## To what resources I have access?
 
@@ -51,7 +54,7 @@ Here are also a lot of useful blogs
 - Jen Person - https://twitter.com/ThatJenPerson (developer advocate Google Firebase, creates awesome content for Firebase)
 - Laurence Moroney - http://www.laurencemoroney.com/ (Working on Artificial Intelligence for Google)
 - Suz Hinton (aka noopkat) - https://noopkat.com/ (tech enthusiast from the nerdiverse, cloud developer advocate @Microsoft, awesome content on IoT, hardware and JS)
-- Russ Cox - https://swtch.com/~rsc/ (fantastic software engineer Google, kind of a jerk, cool articles)
+- Russ Cox - https://swtch.com/~rsc/ (fantastic software engineer Google, cool articles)
 - Francesc Campoy - https://campoy.cat/blog (Gopher, Developer Advocate, Good Guy - has a nice video series on learning Golang - justforfunc)
 - Julia Evans - https://jvns.ca/ (besides technical articles, she creates *awesome* doodles, sketches and drawings about Linux - https://drawings.jvns.ca/)
 - Radu Vunvulea - http://vunvulearadu.blogspot.com/ + Alex Mang - http://alexmang.com/ (Microsoft MVPs - Most Valuable Professionals)
