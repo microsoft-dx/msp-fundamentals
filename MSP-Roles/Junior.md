@@ -36,6 +36,7 @@ Microsoft has a lot of resources for you to take advantage of and we also have a
  * https://github.com/microsoft-dx <- Our own Organization which has a bunch of internal projects and materials for workshops
  * https://mva.microsoft.com/ <- Microsoft Virtual Academy is a good source of tutorials if you want to improve your technical skills
  * https://studentpartners.microsoft.com/ <- The Microsoft Student Partners official website has a great variety of learning materials and more information on the MSP program
+ * https://docs.microsoft.com/en-us/learn/ <- Up your game with a learning path tailored to today's developer and technology masterminds and designed to prepare you for industry-recognized Microsoft certifications
 
 Here are also a lot of useful blogs
 
