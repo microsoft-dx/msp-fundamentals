@@ -26,6 +26,7 @@ TODO: talk to Flavia + Andreea
 
 ## Community Board
 
+* Keep in touch with Microsoft and come up with new event ideas, collaborations, financing
 * Organize promotion campaigns for events/MSP in general
 * Post regularly on the Facebook/Twitter(?)/LinkedIn pages
 * Organize at least 2 teambuilding events/semester (boardgames, drinks etc.)
