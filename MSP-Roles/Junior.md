@@ -1,6 +1,6 @@
 # Microsoft Junior Student Partner
 
-_TODO: add banner picture of MSP! We must take a nice picture together_
+![MspTeam](https://github.com/microsoft-dx/msp-fundamentals/blob/master/Images/msp-team.jpg)
 
 ## Welcome!
 ### You went through the whole application process and now you are a Junior Member! Congratulations! Much to learn and much to do from this point on so that you can redeem your spot on the team. The junior role comes with a lot of exciting things and this page has the purpose to go more in depth with what we expect of you and what you should expect from the team.
