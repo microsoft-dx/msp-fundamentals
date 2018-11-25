@@ -13,7 +13,7 @@
 # Introduction
 This tutorial will guide you through the steps necessary in order to activate your Azure for Students package. In order for this to work, you will need to have your university email account handy, so that the fact that you are indeed a student can be verified.
 
-# Landing on the appropiate page
+# Landing on the appropriate page
 To kick it off, start by following [the link here.][azure-sign-up]
 You will arrive on a page from which you can begin the activation process.
 Click on the green `Activate now` button, as it can be seen in the following image.
