@@ -1,0 +1,22 @@
+
+## The process of becoming an MSP
+
+### The recruitment is composed of three phases: the Form, the Technical Selection Test and the Interview. The reasons behind this will soon be made clear throughout this document.
+
+- Step 1: The Form
+
+In the initial stages the participants will complete a form in which they specify basic facts about themselves (ex.: name, faculty, year of study etc.). We take into consideration this information since younger students have a higher chance of having a bigger MSP life span and we will lower the expectations in such cases. Attached with this application comes a cover letter in which they explain why they would like to become a MSP and what skills (both technical and soft) would help them in their daily tasks. At this point we weed out people based on the quality of this self-recommendation or on our knowledge on that respective student. We do this in order to eliminate any misunderstandings in what qualities we look for in our future MSPs. That's why we sometimes contact them for more information regarding their experience in the field. For example, first year students tend to focus more on their understanding of Microsoft technologies than on the skills necessary to tackle the usual tasks at hand.
+
+- Step 2: The Technical Selection Test
+
+After the meeting in which we decide what candidates pass to the next round we organize three or four days, depending on the number of people who passed, dedicated to the Technical Selection Test. In these days they are free to visit our laboratory and take it. The problems of the test consist of varied topics ranging from technical skills such as data structures, algorithms and object-oriented programming to logic and resource management ones. We believe that this structure highlights the strong points of the participants because as I mentioned earlier first year students lack the experience of their older counterparts. After the tests are graded, we meet again to judge the performance of the future interviewees. If they did well, they automatically pass onto the next stage. If there were problems, we reconsider their cover letter and decide if it's worth interviewing them. Generally, we are a very inclusive group but cutting corners when it comes to people isn't our habit. As such only the very passionate or skilled pass.
+
+- Step 3: The Interview
+
+The final stage of this process is the interview. Here we first search for soft skills. Hobbies are generally one of the clear indicators of a good future MSP because they usually imply aptitudes which can be applied in future scenarios. Another aspect which is highly regarded is social openness. This eases the task of creating cohesion between the members, which increases the chances of a junior to become a member. At this step problems are given to them in order to test their ways of thinking. We appreciate students that speak out loud and share the ideas they have with the interviewers. Finally, a preliminary verdict is taken on the spot but not disclosed to the students. Their performance is then discussed in a last meeting with the other MSPs on this topic in which we make our final decision.
+
+- Bonus: The first things to be done after the selection
+
+The new year is opened with the meeting of the Juniors. There we will announce the workshops that they are assigned to and introduce them to our tools of trade (sharepoint, teams, doodle etc.). This creates the occasion for them to meet their future mentor which will offer them help in the completion of each semester's tasks. There are two types. The theoretical one consists of the individual study of a Microsoft technology or a course on the Microsoft Learn platform. To test the new aptitudes they've acquired we ask them to write a blog post or a documentation which is supervised by the mentor. In addition to this they must create an app using one of the technologies we put at their disposal. The development is also supervised by the same mentor which offers feedback.
+
+In conclusion, we spend a lot of time and resources in training the next generation MSPs and even if they decide not to continue with the program we rest assured that they will use the things they learn in the near future.
