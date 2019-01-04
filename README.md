@@ -13,3 +13,5 @@ The meaning of this repo is to set various guidelines for certain Student Partne
 ### [General Duties](https://github.com/microsoft-dx/msp-fundamentals/blob/master/GeneralDuties/README.md)
 
 ### [Microsoft Innovation Center](https://github.com/microsoft-dx/msp-fundamentals/blob/master/MIC/README.md)
+
+### [MIC accounts](https://github.com/microsoft-dx/msp-fundamentals/blob/master/MIC/msp_accounts.md)
